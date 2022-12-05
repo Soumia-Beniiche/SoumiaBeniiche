@@ -1,13 +1,7 @@
-# SoumiaBeniiche
+<h1 align="center">Hey 👋 What's up?</h1>
 <div align="center">
   <img height="700" src="https://raw.githubusercontent.com/Soumia-Beniiche/SoumiaBeniiche/7818afb4981f3b469c63d7c1d8a73d380aa74577/Background.jpg"  />
 </div>
-
-###
-
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
 
 <p align="left">My name is Soumia Beniiche and I'm a Software Engineer Student from Morocco,Rabat</p>
 
@@ -21,7 +15,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills &Tools</h2>
 
 ###
 
@@ -51,35 +45,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-Profile Readme Generator
